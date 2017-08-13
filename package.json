@@ -1,0 +1,22 @@
+{
+  "name": "json-html-table",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denakv/json-html-table.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/denakv/json-html-table/issues"
+  },
+  "homepage": "https://github.com/denakv/json-html-table#readme",
+  "dependencies": {
+    "node-json2html": "^1.1.1"
+  }
+}
